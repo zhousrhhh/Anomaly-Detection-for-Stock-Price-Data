@@ -5,4 +5,5 @@ I Perform the following procedures:
 2. Exponential smoothing
 3. Seasonal-Trend Decomposition
 4. Use the Prophet module
+
 Conclusion: Justify each of the models why they can identify anomalies. 
